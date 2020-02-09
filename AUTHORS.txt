@@ -1,0 +1,10 @@
+Projet :  Jeu de go en JAVA
+Professeur : Mr Monin
+
+Développeur :
+MINGUET Louis <louis.minguet@gmail.com>
+DUT Informatique * 1° année
+IUT Sénart - Fontainebleau
+
+Début du projet 	: mar. 26 févr. 2019 18∶09∶20 CEST
+Fin du projet 		: jeu. 20 juin 	2019 23∶35∶49 CEST
